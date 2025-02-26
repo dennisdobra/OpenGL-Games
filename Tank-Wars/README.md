@@ -9,3 +9,5 @@
 
 ## 🎥 Gameplay Demo
 [![Watch Gameplay](game-thumbnail.jpg)](Tank-Wars-demo.mp4)
+
+Click the image to watch the gameplay!
