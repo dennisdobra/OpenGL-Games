@@ -9,6 +9,6 @@
 ## 🎥 Watch the Demo
 [![Watch Gameplay](game-thumbnail.jpg)](Drone-Minigame-demo.mp4)
 
-Click the image to watch the gameplay (download the video by pressing 'view raw' button)!
+**Click the image to watch the gameplay (download the video by pressing 'view raw' button)**!
 
 Enjoy the flight! ✈️
