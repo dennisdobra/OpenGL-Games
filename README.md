@@ -17,5 +17,3 @@ This repository contains two exciting games implemented using **OpenGL** and **C
 ## 🛠️ Technologies Used
 - **C++**
 - **OpenGL**
-
-Enjoy the games, and may the best player win! ✨
