@@ -8,4 +8,4 @@
 - **Simple yet engaging gameplay**  
 
 ## 🎥 Gameplay Demo
-[Watch Gameplay](Tank-Wars-demo.mp4)
+[![Watch Gameplay](game-thumbnail.jpg)](Tank-Wars-demo.mp4)
